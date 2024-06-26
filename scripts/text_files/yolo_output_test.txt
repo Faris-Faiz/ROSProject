@@ -1,0 +1,688 @@
+[0m[ INFO] [1719391728.183379727]: [YoloDetector] Initializing...[0m
+[0m[ INFO] [1719391728.184155702]: [YoloROS] Node started![0m
+[0m[ INFO] [1719391728.185910835]: [YoloROS] Xserver is running.[0m
+[0m[ INFO] [1719391728.185925035]: [YoloROS] Initializing...[0m
+[0m[ INFO] [1719391728.188555720]: [YoloDetector] Loading inference engine...[0m
+[0m[ INFO] [1719391728.188568422]: [YoloDetector] Device Info: 2020.3.0-3467-15f2c61a-releases/2020/3[0m
+[0m[ INFO] [1719391728.395162756]: [YoloDetector] Loading label map...[0m
+[0m[ INFO] [1719391728.395326029]: [YoloDetector] 80 Categories in total...[0m
+[0m[ INFO] [1719391728.395340617]: [YoloDetector] Checking model inputs...[0m
+[0m[ INFO] [1719391728.395373654]: [YoloDetector] Checking model outputs...[0m
+[0m[ INFO] [1719391728.395383899]: [YoloDetector] Loading model to CPU[0m
+[0m[ INFO] [1719391729.196527529]: [YoloDetector] Creating infer requests...[0m
+Waiting for image.
+[2J[1;1H
+FPS:18808.5
+Object:
+
+person	 1.00
+remote	 0.75
+[2J[1;1H
+FPS:4.2
+Object:
+
+person	 1.00
+cell phone	 0.73
+[2J[1;1H
+FPS:5.1
+Object:
+
+person	 1.00
+cell phone	 0.76
+[2J[1;1H
+FPS:5.4
+Object:
+
+person	 1.00
+cell phone	 0.82
+[2J[1;1H
+FPS:5.4
+Object:
+
+person	 1.00
+cell phone	 0.85
+[2J[1;1H
+FPS:5.5
+Object:
+
+person	 1.00
+cell phone	 0.82
+[2J[1;1H
+FPS:5.5
+Object:
+
+person	 1.00
+cell phone	 0.62
+[2J[1;1H
+FPS:5.4
+Object:
+
+person	 0.99
+remote	 0.66
+[2J[1;1H
+FPS:5.4
+Object:
+
+person	 0.99
+remote	 0.75
+[2J[1;1H
+FPS:5.4
+Object:
+
+person	 0.99
+remote	 0.53
+[2J[1;1H
+FPS:5.5
+Object:
+
+person	 0.95
+[2J[1;1H
+FPS:5.5
+Object:
+
+person	 0.98
+[2J[1;1H
+FPS:5.5
+Object:
+
+person	 0.94
+[2J[1;1H
+FPS:5.4
+Object:
+
+person	 0.80
+[2J[1;1H
+FPS:5.5
+Object:
+
+person	 0.55
+[2J[1;1H
+FPS:5.5
+Object:
+
+person	 1.00
+[2J[1;1H
+FPS:5.5
+Object:
+
+cell phone	 1.00
+person	 0.97
+[2J[1;1H
+FPS:5.5
+Object:
+
+person	 0.98
+cell phone	 0.95
+[2J[1;1H
+FPS:5.5
+Object:
+
+person	 0.99
+[2J[1;1H
+FPS:5.5
+Object:
+
+person	 0.99
+person	 0.58
+[2J[1;1H
+FPS:5.5
+Object:
+
+person	 0.89
+[2J[1;1H
+FPS:5.5
+Object:
+
+person	 0.99
+[2J[1;1H
+FPS:5.5
+Object:
+
+person	 0.99
+[2J[1;1H
+FPS:5.5
+Object:
+
+person	 0.99
+[2J[1;1H
+FPS:5.5
+Object:
+
+person	 0.99
+[2J[1;1H
+FPS:5.4
+Object:
+
+person	 0.99
+[2J[1;1H
+FPS:5.5
+Object:
+
+person	 0.99
+[2J[1;1H
+FPS:5.5
+Object:
+
+person	 1.00
+[2J[1;1H
+FPS:5.5
+Object:
+
+person	 1.00
+[2J[1;1H
+FPS:5.5
+Object:
+
+person	 1.00
+[2J[1;1H
+FPS:5.5
+Object:
+
+person	 1.00
+[2J[1;1H
+FPS:5.5
+Object:
+
+person	 1.00
+[2J[1;1H
+FPS:5.5
+Object:
+
+person	 1.00
+[2J[1;1H
+FPS:5.5
+Object:
+
+person	 0.89
+[2J[1;1H
+FPS:5.5
+Object:
+
+person	 0.97
+[2J[1;1H
+FPS:5.5
+Object:
+
+person	 0.99
+[2J[1;1H
+FPS:5.5
+Object:
+
+person	 0.97
+[2J[1;1H
+FPS:5.5
+Object:
+
+person	 0.97
+[2J[1;1H
+FPS:5.5
+Object:
+
+person	 0.96
+[2J[1;1H
+FPS:5.5
+Object:
+
+person	 0.99
+[2J[1;1H
+FPS:5.5
+Object:
+
+person	 0.90
+[2J[1;1H
+FPS:5.5
+Object:
+
+person	 0.68
+[2J[1;1H
+FPS:5.6
+Object:
+
+person	 0.56
+[2J[1;1H
+FPS:5.5
+Object:
+
+[2J[1;1H
+FPS:5.4
+Object:
+
+[2J[1;1H
+FPS:5.5
+Object:
+
+[2J[1;1H
+FPS:5.5
+Object:
+
+[2J[1;1H
+FPS:5.4
+Object:
+
+[2J[1;1H
+FPS:5.5
+Object:
+
+[2J[1;1H
+FPS:5.4
+Object:
+
+[2J[1;1H
+FPS:5.4
+Object:
+
+[2J[1;1H
+FPS:5.4
+Object:
+
+apple	 0.81
+[2J[1;1H
+FPS:5.5
+Object:
+
+apple	 0.88
+[2J[1;1H
+FPS:5.4
+Object:
+
+apple	 0.94
+[2J[1;1H
+FPS:5.5
+Object:
+
+apple	 0.74
+[2J[1;1H
+FPS:5.5
+Object:
+
+[2J[1;1H
+FPS:5.5
+Object:
+
+[2J[1;1H
+FPS:5.5
+Object:
+
+orange	 0.50
+[2J[1;1H
+FPS:5.4
+Object:
+
+[2J[1;1H
+FPS:5.5
+Object:
+
+[2J[1;1H
+FPS:5.4
+Object:
+
+sports ball	 0.57
+[2J[1;1H
+FPS:5.4
+Object:
+
+orange	 0.66
+[2J[1;1H
+FPS:5.4
+Object:
+
+orange	 0.69
+[2J[1;1H
+FPS:5.4
+Object:
+
+orange	 0.68
+[2J[1;1H
+FPS:5.4
+Object:
+
+orange	 0.70
+[2J[1;1H
+FPS:5.4
+Object:
+
+orange	 0.78
+[2J[1;1H
+FPS:5.5
+Object:
+
+orange	 0.73
+[2J[1;1H
+FPS:5.4
+Object:
+
+orange	 0.69
+[2J[1;1H
+FPS:5.5
+Object:
+
+orange	 0.76
+[2J[1;1H
+FPS:5.5
+Object:
+
+orange	 0.60
+[2J[1;1H
+FPS:5.4
+Object:
+
+orange	 0.86
+[2J[1;1H
+FPS:5.4
+Object:
+
+person	 0.61
+[2J[1;1H
+FPS:5.5
+Object:
+
+person	 0.51
+[2J[1;1H
+FPS:5.4
+Object:
+
+person	 0.99
+[2J[1;1H
+FPS:5.4
+Object:
+
+person	 0.99
+[2J[1;1H
+FPS:5.5
+Object:
+
+person	 0.99
+[2J[1;1H
+FPS:5.5
+Object:
+
+person	 0.99
+[2J[1;1H
+FPS:5.5
+Object:
+
+person	 0.99
+[2J[1;1H
+FPS:5.5
+Object:
+
+person	 0.98
+cell phone	 0.54
+[2J[1;1H
+FPS:5.5
+Object:
+
+[2J[1;1H
+FPS:5.5
+Object:
+
+[2J[1;1H
+FPS:5.5
+Object:
+
+[2J[1;1H
+FPS:5.5
+Object:
+
+[2J[1;1H
+FPS:5.5
+Object:
+
+apple	 0.70
+[2J[1;1H
+FPS:5.5
+Object:
+
+apple	 0.71
+[2J[1;1H
+FPS:5.4
+Object:
+
+apple	 0.73
+[2J[1;1H
+FPS:5.4
+Object:
+
+apple	 0.83
+[2J[1;1H
+FPS:5.4
+Object:
+
+apple	 0.61
+[2J[1;1H
+FPS:5.4
+Object:
+
+apple	 0.70
+[2J[1;1H
+FPS:5.4
+Object:
+
+apple	 0.74
+[2J[1;1H
+FPS:5.5
+Object:
+
+apple	 0.71
+[2J[1;1H
+FPS:5.4
+Object:
+
+apple	 0.70
+[2J[1;1H
+FPS:5.5
+Object:
+
+person	 0.85
+[2J[1;1H
+FPS:5.5
+Object:
+
+person	 0.64
+[2J[1;1H
+FPS:5.5
+Object:
+
+person	 1.00
+[2J[1;1H
+FPS:5.5
+Object:
+
+person	 1.00
+[2J[1;1H
+FPS:5.5
+Object:
+
+person	 1.00
+[2J[1;1H
+FPS:5.4
+Object:
+
+person	 0.88
+[2J[1;1H
+FPS:5.5
+Object:
+
+person	 0.98
+[2J[1;1H
+FPS:5.5
+Object:
+
+tvmonitor	 0.91
+[2J[1;1H
+FPS:5.5
+Object:
+
+[2J[1;1H
+FPS:5.5
+Object:
+
+banana	 0.97
+[2J[1;1H
+FPS:5.5
+Object:
+
+banana	 0.95
+[2J[1;1H
+FPS:5.5
+Object:
+
+banana	 0.93
+[2J[1;1H
+FPS:5.4
+Object:
+
+banana	 0.96
+[2J[1;1H
+FPS:5.4
+Object:
+
+banana	 0.94
+[2J[1;1H
+FPS:5.3
+Object:
+
+banana	 0.94
+[2J[1;1H
+FPS:5.4
+Object:
+
+banana	 0.92
+[2J[1;1H
+FPS:5.5
+Object:
+
+banana	 0.90
+[2J[1;1H
+FPS:5.4
+Object:
+
+banana	 0.98
+[2J[1;1H
+FPS:5.5
+Object:
+
+person	 0.82
+[2J[1;1H
+FPS:5.2
+Object:
+
+person	 0.97
+[2J[1;1H
+FPS:5.5
+Object:
+
+person	 0.85
+[2J[1;1H
+FPS:5.5
+Object:
+
+person	 0.93
+[2J[1;1H
+FPS:5.5
+Object:
+
+person	 0.99
+chair	 0.76
+[2J[1;1H
+FPS:5.5
+Object:
+
+person	 0.98
+chair	 0.82
+[2J[1;1H
+FPS:5.5
+Object:
+
+person	 0.99
+chair	 0.91
+[2J[1;1H
+FPS:5.3
+Object:
+
+person	 0.96
+chair	 0.78
+[2J[1;1H
+FPS:5.4
+Object:
+
+person	 0.92
+[2J[1;1H
+FPS:5.1
+Object:
+
+person	 0.95
+[2J[1;1H
+FPS:5.1
+Object:
+
+person	 0.93
+[2J[1;1H
+FPS:5.4
+Object:
+
+person	 0.93
+[2J[1;1H
+FPS:5.4
+Object:
+
+person	 0.94
+[2J[1;1H
+FPS:5.4
+Object:
+
+person	 0.93
+[2J[1;1H
+FPS:5.4
+Object:
+
+person	 0.95
+... logging to /home/mustar/.ros/log/ca8cf8ca-3398-11ef-bd11-1cbfcec6f5ff/roslaunch-jupiterobot-1966.log
+Checking log directory for disk usage. This may take a while.
+Press Ctrl-C to interrupt
+Done checking log file disk usage. Usage is <1GB.
+]2;/home/mustar/catkin_ws/src/jupiterobot/jupiterobot_modules/robot_vision/robot_vision_openvino/launch/yolo_ros.launch
+[1mstarted roslaunch server http://jupiterobot:43931/[0m
+
+SUMMARY
+========
+
+PARAMETERS
+ * /rosdistro: melodic
+ * /rosversion: 1.14.13
+ * /yolo_ros/image_view/enable_console_output: True
+ * /yolo_ros/image_view/enable_opencv: True
+ * /yolo_ros/image_view/wait_key_delay: 3
+ * /yolo_ros/publisher/bounding_boxes/latch: False
+ * /yolo_ros/publisher/bounding_boxes/queue_size: 1
+ * /yolo_ros/publisher/bounding_boxes/topic: /yolo_ros/boundin...
+ * /yolo_ros/publisher/control_node/latch: False
+ * /yolo_ros/publisher/control_node/queue_size: 1
+ * /yolo_ros/publisher/control_node/topic: /vision_to_control
+ * /yolo_ros/publisher/detection_image/latch: True
+ * /yolo_ros/publisher/detection_image/queue_size: 1
+ * /yolo_ros/publisher/detection_image/topic: /yolo_ros/detecti...
+ * /yolo_ros/subscribers/camera_reading/queue_size: 1
+ * /yolo_ros/subscribers/camera_reading/topic: /usb_cam/image_raw
+ * /yolo_ros/subscribers/control_node/queue_size: 1
+ * /yolo_ros/subscribers/control_node/topic: /control_to_vision
+ * /yolo_ros/under_control: False
+ * /yolo_ros/yolo_model/auto_resize: False
+ * /yolo_ros/yolo_model/bbox_threshold: 0.5
+ * /yolo_ros/yolo_model/folder: /home/mustar/catk...
+ * /yolo_ros/yolo_model/iou_threshold: 0.4
+ * /yolo_ros/yolo_model/label: /yolov3.names
+ * /yolo_ros/yolo_model/name: /yolov3.xml
+ * /yolo_ros/yolo_model/precision: /FP32
+
+NODES
+  /
+    yolo_ros (robot_vision_openvino/yolo_ros)
+
+[1mROS_MASTER_URI=http://localhost:11311[0m
+]2;/home/mustar/catkin_ws/src/jupiterobot/jupiterobot_modules/robot_vision/robot_vision_openvino/launch/yolo_ros.launch http://localhost:11311
+[1mprocess[yolo_ros-1]: started with pid [2082][0m
+[yolo_ros-1] killing on exit
+shutting down processing monitor...
+... shutting down processing monitor complete
+[1mdone[0m
